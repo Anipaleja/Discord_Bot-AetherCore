@@ -24,7 +24,7 @@ Reaction Roles - Assign roles based on reactions for easy community engagement.
 
 Clone the repository:
 
-    git clone https://github.com/yourusername/AetherCore.git
+    git clone https://github.com/anipaleja/Discord_Bot-AetherCore.git
     
     cd AetherCore
     
