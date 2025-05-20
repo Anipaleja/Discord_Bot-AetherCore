@@ -26,7 +26,7 @@ Clone the repository:
 
     git clone https://github.com/anipaleja/Discord_Bot-AetherCore.git
     
-    cd AetherCore
+    cd Discord_Bot
     
 Create and activate a Python virtual environment:
 
