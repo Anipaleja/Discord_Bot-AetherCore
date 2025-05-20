@@ -7,25 +7,40 @@ AetherCore is an advanced, multi-purpose Discord bot designed to enhance server 
 # Features: 
 
 Moderation - Auto-moderation, kick/ban commands, role management, and customizable mute functionality.
+
 Music Playback - Play and manage music in voice channels with queue support.
+
 Analytics - Track user activity, server statistics, and generate useful reports.
+
 Custom Commands - Create and manage commands tailored to your community.
+
 Reminders & Scheduling - Set reminders and scheduled announcements.
+
 Reaction Roles - Assign roles based on reactions for easy community engagement.
 
 # Installation
 
 **Keep in mind this is still a work in progress and may not work sometimes**
 Clone the repository:
+
     git clone https://github.com/yourusername/AetherCore.git
+    
     cd AetherCore
+    
 Create and activate a Python virtual environment:
+
     python3 -m venv venv
+    
     source venv/bin/activate  # On Windows: venv\Scripts\activate
+    
 Install dependencies:
+
     pip install -r requirements.txt
+    
 Configure your bot token and settings in config.json.
+
 Run the bot:
+
     python bot.py
 
 # Contribution
