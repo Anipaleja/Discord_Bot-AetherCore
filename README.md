@@ -1,4 +1,4 @@
-# What is it??
+# What is it?
 
 AetherCore is an advanced, multi-purpose Discord bot designed to enhance server management, community interaction, and fun. It offers moderation tools, music playback, analytics, customizable commands, reminders, and more, all built with scalability and user experience in mind.
 
