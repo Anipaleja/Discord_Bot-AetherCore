@@ -14,7 +14,7 @@ AetherCore is an advanced, multi-purpose Discord bot designed to enhance server 
 
 **Analytics** - Track user activity, server statistics, and generate useful reports.
 
-Custom Commands - Create and manage commands tailored to your community.
+**Custom Commands** - Create and manage commands tailored to your community.
 
 Reminders & Scheduling - Set reminders and scheduled announcements.
 
