@@ -10,7 +10,7 @@ AetherCore is an advanced, multi-purpose Discord bot designed to enhance server 
 
 **Moderation** - Auto-moderation, kick/ban commands, role management, and customizable mute functionality.
 
-Music Playback - Play and manage music in voice channels with queue support.
+**Music Playback** - Play and manage music in voice channels with queue support.
 
 Analytics - Track user activity, server statistics, and generate useful reports.
 
