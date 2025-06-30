@@ -23,7 +23,7 @@ AetherCore is an advanced, multi-purpose Discord bot designed to enhance server 
 
 **Reaction Roles** - Assign roles based on reactions for easy community engagement.
 
-# Installation
+## Installation
 
 **Keep in mind this is still a work in progress and may not work sometimes**
 
@@ -49,8 +49,8 @@ Run the bot:
 
     python bot.py
 
-# Contribution
+## Contribution
 This project is open to contributions! Feel free to open issues or submit pull requests to improve functionality, fix bugs, or add new features.
 
-# License
+## License
 MIT License
