@@ -26,7 +26,7 @@ AetherCore is an advanced, multi-purpose Discord bot designed to enhance server 
 
 ## Installation
 
-**Keep in mind this is still a work in progress and may not work sometimes**
+> ***Keep in mind this is still a work in progress and may not work sometimes***
 
 Clone the repository:
 
