@@ -14,6 +14,7 @@ class Music(commands.Cog):
             await channel.connect()
         vc = ctx.voice_client
 
+        #yt_dlp is used for the downloading/extracting information from media played
         with yt_dlp.YoutubeDL(self.ydl_opts) as ydl:
             info = ydl.extract_info(url, download=False)
             url2 = info['url']
