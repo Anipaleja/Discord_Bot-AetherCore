@@ -24,27 +24,26 @@ AetherCore is an advanced, multi-purpose Discord bot designed to enhance server 
 > ***Keep in mind this is still a work in progress and may not work sometimes***
 
 1. Clone the repository:
-
+    ```bash
     git clone https://github.com/anipaleja/Discord_Bot-AetherCore.git
     
     cd Discord_Bot
-    
+    ```
 2. Create and activate a Python virtual environment:
-
+    ```bash
     python3 -m venv venv
-    
     source venv/bin/activate  # On Windows: venv\Scripts\activate
-    
+    ```
 3. Install dependencies:
-
+    ```bash
     pip install -r requirements.txt
-    
+    ```
 4. Configure your bot token and settings in config.json.
 
-Run the bot:
-
+5. Run the bot:
+    ```bash
     python bot.py
-
+    ```
 ## Contribution
 This project is open to contributions! Feel free to open issues or submit pull requests to improve functionality, fix bugs, or add new features.
 
