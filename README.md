@@ -5,7 +5,7 @@ AetherCore is an advanced, multi-purpose Discord bot designed to enhance server 
 
 > ***Work in Progress:*** This bot is actively being developed and improved. Features may change and new functionalities will be added regularly. Your feedback and contributions are welcome!
 
-**Note:**
+***Note:***
 - This bot still has some bugs being resolved. Updated code with resolved issues coming soon! In the meantime, if you have any other issues, submit them under the "issues" tab or submit a pull request.
 - Be on the lookout for AetherCore, coming soon!!
 
@@ -23,23 +23,23 @@ AetherCore is an advanced, multi-purpose Discord bot designed to enhance server 
 
 > ***Keep in mind this is still a work in progress and may not work sometimes***
 
-Clone the repository:
+1. Clone the repository:
 
     git clone https://github.com/anipaleja/Discord_Bot-AetherCore.git
     
     cd Discord_Bot
     
-Create and activate a Python virtual environment:
+2. Create and activate a Python virtual environment:
 
     python3 -m venv venv
     
     source venv/bin/activate  # On Windows: venv\Scripts\activate
     
-Install dependencies:
+3. Install dependencies:
 
     pip install -r requirements.txt
     
-Configure your bot token and settings in config.json.
+4. Configure your bot token and settings in config.json.
 
 Run the bot:
 
