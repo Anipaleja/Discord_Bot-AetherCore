@@ -10,6 +10,7 @@ AetherCore is an advanced, multi-purpose Discord bot designed to enhance server 
 - Be on the lookout for AetherCore, coming soon!!
 
 ## Features: 
+> Features in place and for the future include the following ***Moderation***, ***Music Playback***,***Custom Commands***, ***Scheduling***, ***Roles***, ***AI Integration***, and ***App Integration***
 
 **Real Time Moderation** - Auto-moderation, kick/ban commands, role management, and customizable mute functionality.
 
