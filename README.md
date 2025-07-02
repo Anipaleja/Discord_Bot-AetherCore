@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square" /> <img src="https://img.shields.io/github/license/anipaleja/Discord_Bot-AetherCore?style=flat-square" /> <img src="https://img.shields.io/badge/python-3.10+-blue?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/discord.py-2.x-blueviolet?style=flat-square&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/platform-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" /> </p>
 AetherCore is an advanced, multi-purpose Discord bot designed to enhance server management, community interaction, and fun. It offers moderation tools, music playback, analytics, customizable commands, reminders, and more, all built with scalability and user experience in mind.
 
-**Work in Progress:** This bot is actively being developed and improved. Features may change and new functionalities will be added regularly. Your feedback and contributions are welcome!
+> ***Work in Progress:*** This bot is actively being developed and improved. Features may change and new functionalities will be added regularly. Your feedback and contributions are welcome!
 
 **Note:**
 - This bot still has some bugs being resolved. Updated code with resolved issues coming soon! In the meantime, if you have any other issues, submit them under the "issues" tab or submit a pull request.
